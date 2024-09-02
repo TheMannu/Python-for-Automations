@@ -1,6 +1,3 @@
-Here's the content rewritten in Markdown format:
-
-```markdown
 # Installing Python and boto3 for AWS Automation
 
 ### Step 1: Update the package list
@@ -71,5 +68,4 @@ print(f"Bucket {bucket_name} created successfully.")
 ### Step 12: Run the script
 ```bash
 python3.10 create_s3_bucket.py
-```
 ```
